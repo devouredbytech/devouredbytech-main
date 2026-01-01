@@ -1,18 +1,18 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
+    "siteTitle": "Devoured by Tech",
+    "siteDescription": "Adventures in digital colonization of the physical world.",
+    "author": "author name",
     "faviconUrl": "/assets/myfavicon.png",
     "blogTitle": "Blog",
     "blogDescription": "Here is the description of the blog part",
-    "productionUrl": "https://eleventy-libdoc.netlify.app",
+    "productionUrl": "https://devouredbytech.com",
     "customLinks": [
         {
             "url": "/feed.xml",
             "text": "Atom feed"
         },
         {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
+            "url": "https://github.com/devouredbytech/devouredbytech-main",
             "text": "GitHub"
         },
         {
@@ -28,5 +28,5 @@
             "text": "CodePen"
         }
     ],
-    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+    "editThisPageRootUrl": "https://github.com/devouredbytech/devouredbytech-main/blob/main"
 }
